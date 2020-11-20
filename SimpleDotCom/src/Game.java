@@ -22,7 +22,6 @@ public class Game {
 			{
 				isAlive=false;
 				System.out.println("You took "+ numofGuesses + "guesses");
-			
 			}
 		}
 	}
